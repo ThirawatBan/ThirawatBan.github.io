@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ThirawatBan.github.io/sitemap.xml
