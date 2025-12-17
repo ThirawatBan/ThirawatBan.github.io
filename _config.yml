@@ -2,25 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ThirawatBan # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+title: Thirawat (Tae) Bannakulpiphat # the website title (if blank, full name will be used instead)
+first_name: Thirawat
+middle_name:
+last_name: Bannakulpiphat
+contact_note: The best way to reach me is via email at thirawat.bannakulpiphat@gmail.com or thirawat.bannakulpiphat@geo.tuwien.ac.at
+# You can even add a little note about which of these is the best way to reach you.
+description: Doctoral Student at Research Unit of Photogrammetry, TU Wien. Specialized in Photogrammetry, UAV Mapping, and 3D Modeling.
+# the ">" symbol means to ignore newlines until "footer_text:" A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ThirawatBan.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -138,6 +138,17 @@ newsletter:
   enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
+
+# -----------------------------------------------------------------------------
+# Social Integration (เลื่อนลงไปหาหัวข้อ socials ในไฟล์ของคุณแล้วเติมข้อมูลนี้)
+# -----------------------------------------------------------------------------
+
+email: thirawat.bannakulpiphat@gmail.com
+# หลังจากคุณสร้างหน้า Google Scholar แล้ว ให้นำ ID มาใส่ที่นี่ครับ
+google_scholar_id: ZZ1vnTYAAAAJ#d=gs_hdr_drw&t=1765967409325
+linkedin_username: thirawat-bannakulpiphat-318a9719b
+github_username: ThirawatBan
+# research_gate_profile: Thirawat-Bannakulpiphat
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -264,8 +275,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Bannakulpiphat]
+  first_name: [Thirawat, T.]
 
   style: apa
   locale: en
