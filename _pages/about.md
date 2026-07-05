@@ -1,8 +1,8 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 subtitle: PhD Student in Photogrammetry · TU Wien
 
