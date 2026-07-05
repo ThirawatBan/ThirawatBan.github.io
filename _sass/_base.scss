@@ -1496,3 +1496,63 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+.publications {
+  .title {
+    line-height: 1.35;
+  }
+
+  .author {
+    line-height: 1.35;
+  }
+
+  .periodical {
+    line-height: 1.35;
+    margin-top: 0.25rem;
+  }
+
+  .links {
+    margin-top: 0.45rem;
+  }
+}
+
+/* Custom homepage profile image and social icons */
+.profile {
+  width: 340px !important;
+  max-width: 340px !important;
+  margin-left: 2.8rem;
+  text-align: center;
+
+  img {
+    width: 310px !important;
+    height: 310px !important;
+    object-fit: cover;
+    border-radius: 50% !important;
+  }
+}
+
+.profile-social {
+  margin-top: 1.15rem;
+  text-align: center;
+
+  .contact-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.85rem;
+    flex-wrap: wrap;
+  }
+
+  .contact-icons a,
+  .contact-icons i,
+  .contact-icons svg,
+  .contact-icons .ai {
+    font-size: 2.15rem !important;
+    line-height: 1 !important;
+  }
+}
+
+/* Improve readability of homepage text */
+.post article p {
+  line-height: 1.55;
+}
