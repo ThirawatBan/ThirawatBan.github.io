@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Photogrammetry · UAV Mapping · 3D Reconstruction
+nav: true
+nav_order: 1
+subtitle: PhD Student in Photogrammetry · TU Wien
 
 profile:
   align: right
@@ -13,7 +15,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -23,18 +25,8 @@ latest_posts:
   limit: 3
 ---
 
-I am **Thirawat Bannakulpiphat (Tae)**, a PhD student in the **Research Unit Photogrammetry** at the **Department of Geodesy and Geoinformation, TU Wien**.
+I am **Thirawat Bannakulpiphat (Tae)**, a PhD student in the **Research Unit Photogrammetry** at the **Department of Geodesy and Geoinformation, TU Wien**, under the supervision of **Prof. Norbert Pfeifer**.
 
-My research focuses on **UAV photogrammetry, small-format multi-head camera systems, oblique imagery, bundle block adjustment, and 3D reconstruction**. I am interested in how camera configuration, image acquisition design, and photogrammetric adjustment influence the **accuracy, reliability, and completeness of 3D geospatial mapping products**.
+My research focuses on **UAV photogrammetry** and **3D geospatial mapping**, with a particular interest in **small-format multi-head camera systems** that combine **nadir and oblique cameras**. I investigate how these camera systems can be designed, modelled, and evaluated to improve the **accuracy, reliability, and completeness** of 3D mapping products.
 
-My work combines **camera-rig modeling, UAV image block analysis, dense point cloud generation, and photogrammetric quality assessment** for reliable UAV-based 3D mapping.
-
-## Research Interests
-
-- UAV photogrammetry
-- Multi-head camera systems
-- Oblique imagery
-- Bundle block adjustment
-- 3D reconstruction
-- Dense point clouds
-- Geospatial data acquisition
+In addition to the geometric and photogrammetric aspects, my research also explores the application of UAV-based multi-camera systems in different mapping contexts, including **urban 3D mapping**, **façade reconstruction**, and **forest mapping**.
