@@ -11,10 +11,9 @@ contact_note: The best way to reach me is via email at thirawat.bannakulpiphat@g
 description: Doctoral Student at Research Unit of Photogrammetry, TU Wien. Specialized in Photogrammetry, UAV Mapping, and 3D Modeling.
 # the ">" symbol means to ignore newlines until "footer_text:" A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Personal academic website of Thirawat Bannakulpiphat.
+  Built with al-folio and hosted on GitHub Pages.
+keywords: photogrammetry, UAV photogrammetry, UAV mapping, 3D reconstruction, 3D geospatial mapping, multi-head camera system, oblique imagery, bundle block adjustment, point cloud
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -140,15 +139,15 @@ newsletter:
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
-# Social Integration (เลื่อนลงไปหาหัวข้อ socials ในไฟล์ของคุณแล้วเติมข้อมูลนี้)
+# Social Integration
 # -----------------------------------------------------------------------------
 
 email: thirawat.bannakulpiphat@gmail.com
-# หลังจากคุณสร้างหน้า Google Scholar แล้ว ให้นำ ID มาใส่ที่นี่ครับ
-google_scholar_id: ZZ1vnTYAAAAJ#d=gs_hdr_drw&t=1765967409325
 linkedin_username: thirawat-bannakulpiphat-318a9719b
 github_username: ThirawatBan
-# research_gate_profile: Thirawat-Bannakulpiphat
+google_scholar_id: ZZ1vnTYAAAAJ
+research_gate_profile: Thirawat-Bannakulpiphat
+cv_pdf: CurriculumVitae_EN_thirawat.ban.pdf
 
 # -----------------------------------------------------------------------------
 # Collections
