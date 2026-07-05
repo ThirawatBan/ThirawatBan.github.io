@@ -2,33 +2,69 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Doctoral Researcher in Photogrammetry · TU Wien
 
 profile:
   align: right
-  image: tae_picture.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Unit Photogrammetry</p>
+    <p>Department of Geodesy and Geoinformation</p>
+    <p>TU Wien, Austria</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Thirawat Bannakulpiphat**, also known as **Tae**, a doctoral researcher at the Research Unit Photogrammetry, Department of Geodesy and Geoinformation, TU Wien.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **UAV-based photogrammetry, small-format multi-head camera systems, bundle block adjustment, camera-rig modeling, 3D mapping, and point cloud generation**. I am particularly interested in understanding how image acquisition design, camera configuration, oblique imagery, image connectivity, and photogrammetric adjustment strategies influence the geometric quality and completeness of 3D reconstruction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my doctoral research, I worked on the modeling of UAV-based multi-head camera systems for 3D mapping and point cloud generation. This background shaped my current research direction toward the evaluation and optimization of small-format penta-camera UAV systems for urban and environmental mapping.
+
+My long-term goal is to develop reliable and practical photogrammetric workflows that support high-quality 3D geospatial data acquisition, reconstruction, and analysis for applications such as digital twins, urban mapping, infrastructure documentation, and environmental monitoring.
+
+## Research Interests
+
+- UAV photogrammetry
+- Small-format multi-head camera systems
+- Oblique imagery and penta-camera systems
+- Bundle block adjustment
+- Camera-rig modeling and calibration
+- 3D mapping and dense point cloud generation
+- Photogrammetric quality assessment
+- Geospatial data acquisition
+- Remote sensing and 3D reconstruction
+
+## Education
+
+**PhD in Geodesy and Geoinformation**  
+TU Wien, Austria  
+2023–present
+
+**M.Eng. in Survey Engineering**  
+Chulalongkorn University, Thailand  
+2021
+
+**B.Eng. in Survey Engineering**  
+Chulalongkorn University, Thailand  
+2019
+
+## Selected Highlights
+
+- Doctoral researcher in photogrammetry at TU Wien
+- Royal Thai Government Science and Technology Scholarship recipient
+- Research focus on UAV-based small-format multi-head camera systems
+- Experience with UAV mapping, photogrammetric software, bundle adjustment, and 3D reconstruction
+- Publications in photogrammetry, UAV mapping, and geospatial reconstruction
