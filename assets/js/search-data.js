@@ -454,6 +454,13 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Thirawat-Bannakulpiphat/", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-4095-0740", "_blank");
+        },
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
