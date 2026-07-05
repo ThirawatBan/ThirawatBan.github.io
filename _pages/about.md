@@ -25,6 +25,7 @@ latest_posts:
   limit: 3
 ---
 
+
 I am **Thirawat Bannakulpiphat (Tae)**, a PhD student in the **Research Unit Photogrammetry** at the **Department of Geodesy and Geoinformation, TU Wien**, under the supervision of **Prof. Norbert Pfeifer**.
 
 My research focuses on **UAV photogrammetry**, **3D geospatial mapping**, with a particular interest in **small-format multi-head camera systems** combining **nadir and oblique cameras**. I study how camera system design, modelling, and evaluation can improve the **accuracy, reliability, and completeness** of UAV-based 3D mapping products.

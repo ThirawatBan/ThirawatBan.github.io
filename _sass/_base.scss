@@ -1516,38 +1516,53 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 }
 
-/* Custom homepage profile image and social icons */
+/* =========================================================
+   Custom homepage profile image and social icons
+   ========================================================= */
+
 .profile {
-  width: 340px !important;
-  max-width: 340px !important;
-  margin-left: 2.8rem;
+  width: 360px !important;
+  max-width: 360px !important;
+  margin-left: 3rem;
   text-align: center;
 
   img {
-    width: 310px !important;
-    height: 310px !important;
+    width: 330px !important;
+    height: 330px !important;
     object-fit: cover;
     border-radius: 50% !important;
   }
 }
 
 .profile-social {
-  margin-top: 1.15rem;
-  text-align: center;
+  margin-top: 1.3rem !important;
+  text-align: center !important;
+  font-size: 2.5rem !important;
+  line-height: 1 !important;
 
   .contact-icons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.85rem;
-    flex-wrap: wrap;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 0.95rem !important;
+    flex-wrap: wrap !important;
   }
 
-  .contact-icons a,
+  .contact-icons a {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 2.5rem !important;
+    line-height: 1 !important;
+    text-decoration: none !important;
+  }
+
   .contact-icons i,
+  .contact-icons i::before,
   .contact-icons svg,
-  .contact-icons .ai {
-    font-size: 2.15rem !important;
+  .contact-icons .ai,
+  .contact-icons .ai::before {
+    font-size: 2.5rem !important;
     line-height: 1 !important;
   }
 }
